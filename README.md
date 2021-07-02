@@ -1,6 +1,6 @@
 # newsapp_dio
 
-A news app using dio 
+A news app for displaying the current news using news api with the help of Dio.
 
 ## Getting Started
 
